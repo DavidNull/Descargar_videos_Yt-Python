@@ -28,19 +28,3 @@ pip install pytube
 
 ## 👤 Created by  
 **David Null** 💻  
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-Enjoy your YouTube video downloads! 🎉📹💾
-
